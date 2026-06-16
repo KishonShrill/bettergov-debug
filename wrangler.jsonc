@@ -1,6 +1,6 @@
 {
-  "name": "bettergovph",
-  "account_id": "{{BETTERGOV_ACCOUNT_ID}}",
+  "name": "bettergov",
+  "account_id": "3230d03f9960d74c51b90363ff7f656e",
   "compatibility_date": "2025-11-17",
   "assets": {
     "directory": "./dist",
